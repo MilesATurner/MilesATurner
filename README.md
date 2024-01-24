@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MilesATurner
 - 👀 I’m interested in aerospace engineering
 - 🌱 I’m currently learning python, and Linux
-- 💞️ I’m looking to collaborate on any projects that help dictate orbit propigation, robotics, and machine learning
+- 💞️ I’m looking to collaborate on any projects that help dictate robotics and machine learning
 - 📫 How to reach me...
 
 <!---
